@@ -1,0 +1,3 @@
+[submodule "Assets/Infra"]
+	path = Assets/Infra
+	url = https://github.com/kynthos/InfrA.git
